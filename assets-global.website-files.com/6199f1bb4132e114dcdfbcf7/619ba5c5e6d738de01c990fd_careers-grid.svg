@@ -1,0 +1,54 @@
+<svg width="1440" height="1475" viewBox="0 0 1440 1475" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M0 2.25h2922.467v5.5H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M41-1511.84v2965.733"/>
+            <path d="M41 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M190-1511.84v2965.733"/>
+            <path d="M190 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M340-1511.84v2965.733"/>
+            <path d="M340 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M486-1511.84v2965.733"/>
+            <path d="M486 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M637-1511.84v2965.733"/>
+            <path d="M637 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M785-1511.84v2965.733"/>
+            <path d="M785 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M934-1511.84v2965.733"/>
+            <path d="M934 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M1082-1511.84v2965.733"/>
+            <path d="M1082 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M1231-1511.84v2965.733"/>
+            <path d="M1231 1463.947V1474"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path stroke-dasharray="2,2" d="M1380-1511.84v2965.733"/>
+            <path d="M1380 1463.947V1474"/>
+        </g>
+        <g transform="translate(-76.28 1467)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <path stroke="#0007A2" stroke-width=".1" stroke-dasharray="2,2" mask="url(#b)" d="M0 7.25h2922.467"/>
+        </g>
+        <path d="M-76.28 1323h2922.467M-76.28 1171h2922.467M-76.28 1022h2922.467M-76.28 870h2922.467M-76.28 720h2922.467M-76.28 571h2922.467M-76.28 419h2922.467M-76.28 267h2922.467M-76.28 118h2922.467" stroke="#0007A2" stroke-dasharray="2,2" stroke-width=".1"/>
+    </g>
+</svg>

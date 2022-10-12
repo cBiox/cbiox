@@ -1,0 +1,96 @@
+<svg width="1440" height="1905" viewBox="0 0 1440 1905" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M0 1.35h1844.733v3.3H0z"/>
+        <path id="c" d="M0 1.35h1844.733v3.3H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".661">
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M90 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M90 19.04v1872.267"/>
+            <path d="M90 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M182 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M182 19.04v1872.267"/>
+            <path d="M182 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M277 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M277 19.04v1872.267"/>
+            <path d="M277 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M371 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M371 19.04v1872.267"/>
+            <path d="M371 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M465 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M465 19.04v1872.267"/>
+            <path d="M465 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M558 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M558 19.04v1872.267"/>
+            <path d="M558 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M652 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M652 19.04v1872.267"/>
+            <path d="M652 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M746 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M746 19.04v1872.267"/>
+            <path d="M746 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M839 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M839 19.04v1872.267"/>
+            <path d="M839 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M933 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M933 19.04v1872.267"/>
+            <path d="M933 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M1027 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M1027 19.04v1872.267"/>
+            <path d="M1027 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M1120 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M1120 19.04v1872.267"/>
+            <path d="M1120 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M1214 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M1214 19.04v1872.267"/>
+            <path d="M1214 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M1309 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M1309 19.04v1872.267"/>
+            <path d="M1309 1897.653V1904"/>
+        </g>
+        <g stroke="#0007A2" stroke-width=".1">
+            <path d="M1401 0v6.347"/>
+            <path stroke-dasharray="2,2" d="M1401 19.04v1872.267"/>
+            <path d="M1401 1897.653V1904"/>
+        </g>
+        <g transform="translate(-173.24 1900)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <path stroke="#0007A2" stroke-width=".1" stroke-dasharray="2,2" mask="url(#b)" d="M0 4.35h1844.733"/>
+        </g>
+        <path d="M-173.24 1809h1844.733M-173.24 1713h1844.733M-173.24 1619h1844.733M-173.24 1523h1844.733M-173.24 1428h1844.733M-173.24 1334h1844.733M-173.24 1238h1844.733M-173.24 1142h1844.733M-173.24 1048h1844.733M-173.24 953h1844.733M-173.24 857h1844.733M-173.24 763h1844.733M-173.24 667h1844.733M-173.24 571h1844.733M-173.24 477h1844.733M-173.24 382h1844.733M-173.24 286h1844.733M-173.24 192h1844.733M-173.24 96h1844.733" stroke="#0007A2" stroke-dasharray="2,2" stroke-width=".1"/>
+        <g transform="translate(-173.24 -1)">
+            <mask id="d" fill="#fff">
+                <use xlink:href="#c"/>
+            </mask>
+            <path stroke="#0007A2" stroke-width=".1" stroke-dasharray="2,2" mask="url(#d)" d="M0 1.65h1844.733"/>
+        </g>
+    </g>
+</svg>

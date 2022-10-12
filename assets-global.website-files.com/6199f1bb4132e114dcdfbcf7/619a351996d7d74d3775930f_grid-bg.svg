@@ -1,0 +1,96 @@
+<svg width="1440" height="2030" viewBox="0 0 1440 2030" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M0 1.575h1995.183v3.85H0z"/>
+        <path id="c" d="M0 1.575h1995.183v3.85H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M10.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M10.5 21.29v1995.183"/>
+            <path d="M10.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M111.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M111.5 21.29v1995.183"/>
+            <path d="M111.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M213.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M213.5 21.29v1995.183"/>
+            <path d="M213.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M314.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M314.5 21.29v1995.183"/>
+            <path d="M314.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M415.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M415.5 21.29v1995.183"/>
+            <path d="M415.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M517.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M517.5 21.29v1995.183"/>
+            <path d="M517.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M618.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M618.5 21.29v1995.183"/>
+            <path d="M618.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M720.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M720.5 21.29v1995.183"/>
+            <path d="M720.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M822.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M822.5 21.29v1995.183"/>
+            <path d="M822.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M923.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M923.5 21.29v1995.183"/>
+            <path d="M923.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M1024.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M1024.5 21.29v1995.183"/>
+            <path d="M1024.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M1126.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M1126.5 21.29v1995.183"/>
+            <path d="M1126.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M1227.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M1227.5 21.29v1995.183"/>
+            <path d="M1227.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M1328.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M1328.5 21.29v1995.183"/>
+            <path d="M1328.5 2023.237V2030"/>
+        </g>
+        <g stroke="#FFF" stroke-width=".1">
+            <path d="M1430.5 1v6.763"/>
+            <path stroke-dasharray="2,2" d="M1430.5 21.29v1995.183"/>
+            <path d="M1430.5 2023.237V2030"/>
+        </g>
+        <g transform="translate(-273.71 2024)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <path stroke="#FFF" stroke-width=".1" stroke-dasharray="2,2" mask="url(#b)" d="M0 5.075h1995.183"/>
+        </g>
+        <path d="M-273.71 1927.5h1995.183M-273.71 1826.5h1995.183M-273.71 1725.5h1995.183M-273.71 1623.5h1995.183M-273.71 1522.5h1995.183M-273.71 1421.5h1995.183M-273.71 1319.5h1995.183M-273.71 1218.5h1995.183M-273.71 1117.5h1995.183M-273.71 1015.5h1995.183M-273.71 913.5h1995.183M-273.71 812.5h1995.183M-273.71 710.5h1995.183M-273.71 609.5h1995.183M-273.71 508.5h1995.183M-273.71 406.5h1995.183M-273.71 305.5h1995.183M-273.71 204.5h1995.183M-273.71 102.5h1995.183" stroke="#FFF" stroke-dasharray="2,2" stroke-width=".1"/>
+        <g transform="translate(-273.71 -1)">
+            <mask id="d" fill="#fff">
+                <use xlink:href="#c"/>
+            </mask>
+            <path stroke="#FFF" stroke-width=".1" stroke-dasharray="2,2" mask="url(#d)" d="M0 1.925h1995.183"/>
+        </g>
+    </g>
+</svg>
